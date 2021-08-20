@@ -1,0 +1,35 @@
+.logo {
+  width: 120px;
+  height: auto;
+}
+.honeyComb {
+  margin: 0px 0px 0px 0px;
+  width: 170px;
+  height: 100px;
+}
+.tab {
+  margin: 0px 0px 0px 800px;
+}
+.home {
+  margin: 0px 20px 0px 800px;
+  text-decoration: none;
+  color: #565252;
+}
+.contact {
+  margin: 20px;
+  text-decoration: none;
+  color: #565252;
+}
+.why {
+  margin: 20px;
+  text-decoration: none;
+  color: #565252;
+}
+.info {
+  margin: 20px;
+  text-decoration: none;
+  color: #565252;
+}
+hr {
+  margin: 0px 40px;
+}
