@@ -7,23 +7,26 @@
   width: 170px;
   height: 100px;
 }
-.tab {
-  margin: 0px 0px 0px 800px;
+.container {
+  float: right;
+  padding: 70px 70px 20px 30px;
+  margin: 0px;
 }
 .home {
-  margin: 0px 20px 0px 800px;
+  margin: 20px;
   text-decoration: none;
   color: #565252;
 }
 .contact {
   margin: 20px;
-  text-decoration: none;
   color: #565252;
+  text-decoration: none;
+  font-family: "Josefin Sans", sans-serif;
 }
 .why {
   margin: 20px;
-  text-decoration: none;
   color: #565252;
+  text-decoration: none;
 }
 .info {
   margin: 20px;
@@ -32,4 +35,41 @@
 }
 hr {
   margin: 0px 40px;
+  height: 0px;
+  border: none;
+  border-top: 2px solid #565252;
+
+  height: 1px;
+  color: #565252;
+}
+.middle {
+  color: #565252;
+  font-family: "Josefin Sans", sans-serif;
+}
+.mission {
+  margin: 0px;
+  padding: 50px 20px 30px 100px;
+  width: 200px;
+}
+.foryou {
+  width: 200px;
+  padding: 0px 0px 0px 80px;
+  font-size: 16px;
+}
+.con {
+  float: right;
+  padding-right: 80px;
+  padding-top: 35px;
+  width: 250px;
+}
+.pcon {
+  float: right;
+  padding: 0px 120px 30px 0px;
+  height: 500px;
+  font-size: 16px;
+}
+html,
+body {
+  padding: 0;
+  margin: 0;
 }
