@@ -1,3 +1,6 @@
+body {
+  background-image: url("https://lh3.googleusercontent.com/f87XmTKdCuwWnNE_cTL1ExeC31GHUJ88po1hQ2gVF6a01rTm3_K6Ui-2_rASAGuC8ISB3RwLvOwB4hra2k-9GJWmFdcVSXFlrKao5CwkjmXy2z6ei0x7D1ORvT8bxLiMf4FH-UvDFQ=w2400");
+}
 .logo {
   width: 120px;
   height: auto;
@@ -11,6 +14,7 @@
   float: right;
   padding: 70px 70px 20px 30px;
   margin: 0px;
+  font-weight: bold;
 }
 .home {
   margin: 20px;
@@ -38,6 +42,7 @@ hr {
   height: 0px;
   border: none;
   border-top: 2px solid #565252;
+  box-shadow: 1px 2px;
 
   height: 1px;
   color: #565252;
@@ -48,25 +53,36 @@ hr {
 }
 .mission {
   margin: 0px;
-  padding: 50px 20px 30px 100px;
+  padding: 50px 20px 30px 170px;
   width: 200px;
 }
+
 .foryou {
   width: 200px;
-  padding: 0px 0px 0px 80px;
+  padding: 0px 0px 0px 150px;
   font-size: 16px;
+  text-decoration: underline #ede5a9;
 }
 .con {
   float: right;
-  padding-right: 80px;
+  padding-right: 120px;
   padding-top: 35px;
   width: 250px;
 }
 .pcon {
   float: right;
-  padding: 0px 120px 30px 0px;
+  padding: 0px 150px 30px 0px;
   height: 500px;
   font-size: 16px;
+  text-decoration: underline #ede5a9;
+}
+.contactinfo {
+  width: 400px;
+  border: 7px solid #565252;
+  padding: 5px;
+  margin: auto;
+  font-family: "Josefin Sans", sans-serif;
+  color: #565252;
 }
 html,
 body {
